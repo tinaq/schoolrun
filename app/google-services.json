@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "49733494631",
+    "firebase_url": "https://admob-app-id-7212280002.firebaseio.com",
+    "project_id": "admob-app-id-7212280002",
+    "storage_bucket": "admob-app-id-7212280002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49733494631:android:22234c64fd592809",
+        "android_client_info": {
+          "package_name": "com.example.reimu.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49733494631-058ie4l5s8dvn46rt6jcou6qatj9sb2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYkZTBs6j85Wi6ZlKhuStWwB9E9dVWnvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49733494631:android:2888ea99f8f9248b",
+        "android_client_info": {
+          "package_name": "com.schoolrun.reimu.buttonchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49733494631-058ie4l5s8dvn46rt6jcou6qatj9sb2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYkZTBs6j85Wi6ZlKhuStWwB9E9dVWnvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
